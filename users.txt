@@ -1,2 +1,5 @@
 some text file
 to check versoning
+Name: Amin
+Title: Gamer
+Hobbies: Running, swimming
