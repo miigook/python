@@ -10,3 +10,4 @@ while x < 5:
     print("Welcome", x, "times") 
     x += 1
 
+help("def")

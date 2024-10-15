@@ -7,3 +7,9 @@ print(binary_num)
 print(octal_num)
 print(decimal_num)
 print(hexadecimal_number)
+
+
+print(bin(348))
+print(oct(15))
+print(19)
+print(hex(31))
